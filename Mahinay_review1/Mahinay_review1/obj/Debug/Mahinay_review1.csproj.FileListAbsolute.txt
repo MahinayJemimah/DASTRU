@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\Dastru\Mahinay_review1\Mahinay_review1\bin\Debug\Mahinay_review1.exe.config
+C:\Users\ACT-STUDENT\Desktop\Dastru\Mahinay_review1\Mahinay_review1\bin\Debug\Mahinay_review1.exe
+C:\Users\ACT-STUDENT\Desktop\Dastru\Mahinay_review1\Mahinay_review1\bin\Debug\Mahinay_review1.pdb
+C:\Users\ACT-STUDENT\Desktop\Dastru\Mahinay_review1\Mahinay_review1\obj\Debug\Mahinay_review1.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Dastru\Mahinay_review1\Mahinay_review1\obj\Debug\Mahinay_review1.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Dastru\Mahinay_review1\Mahinay_review1\obj\Debug\Mahinay_review1.exe
+C:\Users\ACT-STUDENT\Desktop\Dastru\Mahinay_review1\Mahinay_review1\obj\Debug\Mahinay_review1.pdb
+C:\Users\ACT-STUDENT\Desktop\Dastru\Mahinay_review1\Mahinay_review1\obj\Debug\Mahinay_review1.exe.config
