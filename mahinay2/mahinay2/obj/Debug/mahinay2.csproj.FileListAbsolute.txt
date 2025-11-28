@@ -1,0 +1,7 @@
+C:\Users\mahin\OneDrive\Desktop\Dastru\mahinay2\mahinay2\bin\Debug\mahinay2.exe.config
+C:\Users\mahin\OneDrive\Desktop\Dastru\mahinay2\mahinay2\bin\Debug\mahinay2.exe
+C:\Users\mahin\OneDrive\Desktop\Dastru\mahinay2\mahinay2\bin\Debug\mahinay2.pdb
+C:\Users\mahin\OneDrive\Desktop\Dastru\mahinay2\mahinay2\obj\Debug\mahinay2.csproj.AssemblyReference.cache
+C:\Users\mahin\OneDrive\Desktop\Dastru\mahinay2\mahinay2\obj\Debug\mahinay2.csproj.CoreCompileInputs.cache
+C:\Users\mahin\OneDrive\Desktop\Dastru\mahinay2\mahinay2\obj\Debug\mahinay2.exe
+C:\Users\mahin\OneDrive\Desktop\Dastru\mahinay2\mahinay2\obj\Debug\mahinay2.pdb
